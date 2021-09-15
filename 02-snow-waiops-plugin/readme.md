@@ -41,8 +41,19 @@ Note: This article can be used only if you have access to IBM Github account (ht
 
 ## 2. Fork the Plugin
 
-Open the link https://github.ibm.com/jorgego/servicenow-integration-fork and fork it to your account. 
+Open the link https://github.com/ibm-gsi-ecosystem/watson-ai-ops-snow-plugin and fork it to your account. 
 
+#### Access
+
+Access to the `ibm-gsi-ecosystem/watson-ai-ops-snow-plugin` instance is strickly controlled, as this is source code level access. It should not be publically shared. To use this instance in a proof of concept / partner scenario where the market place is not available, contact the AIOps team.
+
+Contacts:
+- Olivier Bonnet (Director, Watson AIOps, Dev and Support) at olibonne@uk.ibm.com
+- Neil Boyette (STSM, Watson AIOps) at neil.boyette@us.ibm.com
+- Pramodh Vallanur Ramesh (Product Management, Watson AIOps) at vr.pramodh@ibm.com
+- Morgan Timpson (Product Management, Watson AIOps) at mdtimpso@us.ibm.com
+
+They will give you access to the github repository. You can then create an access key, specific to the PoC. You can use this key to install the application in ServiceNow. Once the engagement has completed the key should be removed.
 
 ## 3. Import plugin from Source Control
 
