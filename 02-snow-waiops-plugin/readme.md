@@ -2,12 +2,10 @@
 
 This article explains about how to install Watson AIOps App plugin in ServiceNow Developer Instance.
 
-Note: This article can be used only if you have access to IBM Github account (https://github.ibm.com)
-
 ## Pre-Requisite
 
 1. ServiceNow Developer Instance
-2. Personal Access Token of IBM Github account 
+2. Access rights to https://github.com/ibm-gsi-ecosystem/watson-ai-ops-snow-plugin. Instruction is given below to get the access rights.
 
 
 ## 1. Create GitHub Credentials
